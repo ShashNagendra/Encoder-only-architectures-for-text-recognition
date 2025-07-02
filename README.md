@@ -15,7 +15,7 @@ alt_gvt_small, alt_gvt_base, alt_gvt_large
 Folder: VAN
 Models: van_b0, van_b1, van_b2, van_b3, van_b4, van_b5, van_b6
 
-Command : ./train.ksh
+
 
 
 
