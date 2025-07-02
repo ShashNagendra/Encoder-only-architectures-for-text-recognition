@@ -2,6 +2,7 @@
 Implementation of the paper "Multi-Scale Encoder-Only Architectures for Enhanced Scene and Handwritten Text Recognition", submitted to The Visual Computer
 
 🔧 How to Run the Models
+
 Run the train.ksh script from the respective folder based on the model you want to train:
 
 Folder: PVTSTR_V1
